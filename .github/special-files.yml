@@ -1,0 +1,8 @@
+# 自定义仓库文件列表展示顺序
+# 列表顺序 = 页面从上到下的展示顺序，最后一个元素会显示在最底部
+files:
+  - build/close_all_apps
+  - dist
+  - close_all_apps.py
+  - close_all_apps.spec
+  - README.md
