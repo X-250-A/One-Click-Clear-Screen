@@ -35,5 +35,5 @@
 
 
 ## 下载与使用
-
+**[最新版链接](https://github.com/X-250-A/-/releases/tag/v1.0.0)**
 
